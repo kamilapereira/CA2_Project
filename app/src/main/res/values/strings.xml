@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CA2 Project</string>
+    <string name="movieImage" />
+    <string name="movie_name" />
+    <string name="certification" />
+    <string name="starring" />
+    <string name="runningTime" />
+    <string name="textSynopsis" />
+</resources>
